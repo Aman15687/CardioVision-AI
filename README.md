@@ -3,7 +3,6 @@ AI-based system to predict heart disease risk using clinical data and ML models.
 GitHub Repository Description 
 CardioVision AI is a machine learning–powered system for predicting heart disease risk based on key medical parameters. This project leverages supervised learning algorithms to analyze patient data and provide early warnings of potential cardiovascular conditions. Designed for healthcare professionals, researchers, and data science enthusiasts, this tool demonstrates the real-world application of AI in preventive healthcare.
 
-⸻
 
 📌 Key Features:
 	•	🔬 Predicts heart disease risk using clinical features like age, blood pressure, cholesterol, chest pain, etc.
